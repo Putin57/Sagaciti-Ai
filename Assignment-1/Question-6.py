@@ -1,0 +1,10 @@
+# string to integer or float convert
+a=input("Enter anything : ")
+print(a,"is string value now.")
+print(type(a))
+x=int(a)
+print(x,"is integer value now.")
+print(type(x))
+y=float(a)
+print(y,"is float value now.")
+print(type(y))
