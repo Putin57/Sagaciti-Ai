@@ -1,2 +1,2 @@
 # Sagaciti-Ai
-Sagaciti Ai all assignment note.
+Sagaciti Ai all assignment answer.
